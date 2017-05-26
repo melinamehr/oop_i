@@ -1,4 +1,4 @@
-#require 'irb'
+require 'irb'
 
 class System
 
@@ -84,4 +84,4 @@ end
 
 moon = Moon.new("moony", 40, 20, "earth")
 
-#binding.irb
+binding.irb
